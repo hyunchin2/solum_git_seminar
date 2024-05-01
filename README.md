@@ -1,0 +1,1 @@
+# solum_git_seminar
